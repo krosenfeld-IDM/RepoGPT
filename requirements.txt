@@ -6,3 +6,5 @@ gpt4all
 llama-cpp-python
 colorama
 tree_sitter
+openai
+tiktoken
