@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.327
 pygments
 tqdm
 deeplake
@@ -6,5 +6,5 @@ gpt4all
 llama-cpp-python
 colorama
 tree_sitter
-openai
+openai==0.28.1
 tiktoken
